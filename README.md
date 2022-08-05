@@ -8,4 +8,4 @@ This is a list
 * third item
 
 This is an image of springboot.
-![SpringBoot](https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png {width=40px height=40px})
+![SpringBoot](https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png | height=40px)
