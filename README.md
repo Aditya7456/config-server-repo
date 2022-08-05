@@ -1,3 +1,3 @@
 # Example Site
 
-This is a sample readme file for our Github Example repo. We're learning Markdown.
+This is a sample _readme_ file for our Github Example repo. We're learning Markdown.
